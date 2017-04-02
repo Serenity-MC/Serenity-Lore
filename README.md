@@ -1,2 +1,3 @@
-# Serenity-Lore
-All things lore correlating to the Minecraft Serenity Community.
+# Serenity Lore
+---
+## Wiki: <https://github.com/Serenity-MC/Serenity-Lore/wiki>
